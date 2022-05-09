@@ -1,0 +1,90 @@
+﻿City,Date,AQI,Weather 
+Mumbai,02-01-2020,260,Poor
+Mumbai,03-01-2020,221,Poor
+Mumbai,04-01-2020,225,Poor
+Mumbai,05-01-2020,229,Poor
+Mumbai,06-01-2020,157,Moderate
+Mumbai,07-01-2020,177,Moderate
+Mumbai,08-01-2020,166,Moderate
+Mumbai,09-01-2020,122,Moderate
+Mumbai,10-01-2020,127,Moderate
+Mumbai,11-01-2020,151,Moderate
+Mumbai,12-01-2020,211,Poor
+Mumbai,13-01-2020,178,Moderate
+Mumbai,14-01-2020,100,Satisfactory
+Mumbai,15-01-2020,97,Satisfactory
+Mumbai,16-01-2020,90,Satisfactory
+Mumbai,17-01-2020,93,Satisfactory
+Mumbai,18-01-2020,160,Moderate
+Mumbai,19-01-2020,213,Poor
+Mumbai,20-01-2020,205,Poor
+Mumbai,21-01-2020,227,Poor
+Mumbai,22-01-2020,192,Moderate
+Mumbai,23-01-2020,196,Moderate
+Mumbai,24-01-2020,172,Moderate
+Mumbai,25-01-2020,182,Moderate
+Mumbai,26-01-2020,253,Poor
+Mumbai,27-01-2020,183,Moderate
+Mumbai,28-01-2020,94,Satisfactory
+Mumbai,29-01-2020,85,Satisfactory
+Mumbai,30-01-2020,123,Moderate
+Mumbai,31-01-2020,145,Moderate
+,,,
+Delhi,01-01-2020,492,Severe
+Delhi,02-01-2020,485,Severe
+Delhi,03-01-2020,426,Severe
+Delhi,04-01-2020,366,Very Poor
+Delhi,05-01-2020,354,Very Poor
+Delhi,06-01-2020,335,Very Poor
+Delhi,07-01-2020,285,Poor
+Delhi,08-01-2020,281,Poor
+Delhi,09-01-2020,231,Poor
+Delhi,10-01-2020,255,Poor
+Delhi,11-01-2020,309,Very Poor
+Delhi,12-01-2020,352,Very Poor
+Delhi,13-01-2020,381,Very Poor
+Delhi,14-01-2020,314,Very Poor
+Delhi,15-01-2020,241,Poor
+Delhi,16-01-2020,286,Poor
+Delhi,17-01-2020,287,Poor
+Delhi,18-01-2020,262,Poor
+Delhi,19-01-2020,290,Poor
+Delhi,20-01-2020,282,Poor
+Delhi,21-01-2020,359,Very Poor
+Delhi,22-01-2020,378,Very Poor
+Delhi,23-01-2020,273,Poor
+Delhi,24-01-2020,155,Moderate
+Delhi,25-01-2020,251,Poor
+Delhi,26-01-2020,349,Very Poor
+Delhi,27-01-2020,365,Very Poor
+Delhi,28-01-2020,302,Very Poor
+Delhi,29-01-2020,218,Poor
+Delhi,30-01-2020,195,Moderate
+Delhi,31-01-2020,203,Poor
+,,,
+Ahmedabad,02-01-2020,162,Moderate
+Ahmedabad,03-01-2020,220,Poor
+Ahmedabad,04-01-2020,254,Poor
+Ahmedabad,05-01-2020,255,Poor
+Ahmedabad,06-01-2020,175,Moderate
+Ahmedabad,07-01-2020,285,Poor
+Ahmedabad,08-01-2020,157,Moderate
+Ahmedabad,09-01-2020,129,Moderate
+Ahmedabad,10-01-2020,129,Moderate
+Ahmedabad,11-01-2020,114,Moderate
+Ahmedabad,12-01-2020,212,Poor
+Ahmedabad,13-01-2020,368,Very Poor
+Ahmedabad,14-01-2020,189,Moderate
+Ahmedabad,15-01-2020,142,Moderate
+Ahmedabad,16-01-2020,152,Moderate
+Ahmedabad,17-01-2020,334,Very Poor
+Ahmedabad,18-01-2020,547,Severe
+Ahmedabad,19-01-2020,375,Very Poor
+Ahmedabad,20-01-2020,384,Very Poor
+Ahmedabad,21-01-2020,529,Severe
+Ahmedabad,22-01-2020,449,Severe
+Ahmedabad,23-01-2020,483,Severe
+Ahmedabad,28-01-2020,289,Poor
+Ahmedabad,29-01-2020,204,Poor
+Ahmedabad,30-01-2020,528,Severe
+Ahmedabad,31-01-2020,660,Severe
